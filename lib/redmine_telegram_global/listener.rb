@@ -1,4 +1,5 @@
 require 'httpclient'
+require 'json'
 
 class TelegramListener < Redmine::Hook::Listener
 
